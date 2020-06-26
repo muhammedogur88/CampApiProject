@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\0Pluralsight courses\\0-ASP.NET DEVELOPER\\2-ASP.NET CORE\\3-Building an API with ASP.NET Core\\building-api-aspdotnet-core\\07\\demos\\m6\\after\\CoreCodeCamp.csproj": {}
+  },
+  "projects": {
+    "D:\\0Pluralsight courses\\0-ASP.NET DEVELOPER\\2-ASP.NET CORE\\3-Building an API with ASP.NET Core\\building-api-aspdotnet-core\\07\\demos\\m6\\after\\CoreCodeCamp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\0Pluralsight courses\\0-ASP.NET DEVELOPER\\2-ASP.NET CORE\\3-Building an API with ASP.NET Core\\building-api-aspdotnet-core\\07\\demos\\m6\\after\\CoreCodeCamp.csproj",
+        "projectName": "CoreCodeCamp",
+        "projectPath": "D:\\0Pluralsight courses\\0-ASP.NET DEVELOPER\\2-ASP.NET CORE\\3-Building an API with ASP.NET Core\\building-api-aspdotnet-core\\07\\demos\\m6\\after\\CoreCodeCamp.csproj",
+        "packagesPath": "C:\\Users\\ogur88\\.nuget\\packages\\",
+        "outputPath": "D:\\0Pluralsight courses\\0-ASP.NET DEVELOPER\\2-ASP.NET CORE\\3-Building an API with ASP.NET Core\\building-api-aspdotnet-core\\07\\demos\\m6\\after\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ogur88\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[3.0.0-beta2, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
